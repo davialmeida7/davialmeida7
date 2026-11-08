@@ -1,16 +1,32 @@
-## Hi there 👋
+# Olá! Eu sou Davi Almeida 
 
-<!--
-**davialmeida7/davialmeida7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Graduado em Ciência da Computação.
 
-Here are some ideas to get you started:
+Tenho interesse em desenvolvimento de software, automação de processos e aplicações de Inteligência Artificial.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Busco desenvolver soluções práticas para problemas reais, utilizando programação, tecnologia e IA como ferramentas para tornar processos mais eficientes.
+
+### 💻 Tecnologias e ferramentas
+
+- HTML5
+- CSS3
+- JavaScript (Vanilla)
+- Python (conhecimentos básicos)
+- Git e GitHub
+- IA generativa e LLMs
+
+### 🚀 Projetos
+
+**Sistema de Automação do Rodízio de Almoço Escolar**
+
+Aplicação web desenvolvida para organizar a liberação de turmas durante o horário de almoço escolar, reduzindo tarefas e conferências manuais.
+
+Tecnologias: HTML, CSS e JavaScript.
+
+### 📚 Atualmente
+
+Aprimorando meus conhecimentos em programação, desenvolvimento de software, automação e Inteligência Artificial por meio de estudos e projetos práticos.
+
+### 🔗 Contato
+
+[LinkedIn](https://www.linkedin.com/in/davialmeidah/) | [GitHub](https://github.com/davialmeida7)
